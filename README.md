@@ -75,6 +75,8 @@ My journey progressed from experimentation to structured engineering: from writi
 <!-- Engineering Skills Section -->
 ## 💡 Engineering Skills
 
+<div align="center">
+
 | Category | Skills |
 |----------|--------|
 | **Code Quality** | Clean code practices, debugging & troubleshooting, mid-level logic systems |
@@ -82,6 +84,8 @@ My journey progressed from experimentation to structured engineering: from writi
 | **DevOps & Tools** | Linux environment, Git/GitHub workflow, Docker exposure, basic DevOps understanding |
 | **Development** | CLI tool development, hardware interaction, embedded systems |
 | **Data & ML** | Data processing, anomaly detection, pattern analysis |
+
+</div>
 
 ---
 
