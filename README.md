@@ -132,8 +132,8 @@ My journey progressed from experimentation to structured engineering: from writi
 |------|--------|-------------|
 | **System Design** | 🟡 Learning | Deepening architecture knowledge for scalable systems |
 | **Go** | 🟡 Improving | Building backend services and CLI tools |
-| **Rust** | 🟡 Junior-Mid | Systems programming, performance-critical components |
-| **Kotlin** | 🟡 Learning | Mobile and backend development |
+| **Rust** | 🟡 Mid | Systems programming, performance-critical components |
+| **Kotlin** | 🟡 Junior | Mobile and backend development |
 | **Backend Architecture** | 🟡 Active | Production-ready systems and infrastructure |
 | **Neural Technologies** | 🔵 Exploring | Understanding integration with existing systems |
 
