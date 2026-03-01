@@ -131,6 +131,7 @@ My journey progressed from experimentation to structured engineering: from writi
 | Area | Status | Description |
 |------|--------|-------------|
 | **System Design** | 🟡 Learning | Deepening architecture knowledge for scalable systems |
+| **Python** | 🟡Mid/Senior | Building tools, automatization and testing |
 | **Go** | 🟡 Improving | Building backend services and CLI tools |
 | **Rust** | 🟡 Mid | Systems programming, performance-critical components |
 | **Kotlin** | 🟡 Junior | Mobile and backend development |
