@@ -73,6 +73,8 @@ My journey progressed from experimentation to structured engineering: from writi
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"/>
 </div>
 
 ### Frameworks / Backend
