@@ -18,6 +18,11 @@
   </a>
 </p>
 
+<!-- Contribution Snake -->
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 </div>
 
 ---
@@ -105,11 +110,6 @@ My journey progressed from experimentation to structured engineering: from writi
 <!-- GitHub Streak Stats -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tworjaga&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 </div>
