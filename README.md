@@ -1,6 +1,10 @@
 <!-- Header Section -->
 <div align="center">
 
+<div align="center">
+  <img height="300" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2QyeTJsZmxreWptNWNqYjQ4b3ZtODdiMHByYjN4d3JtOTA0cG44NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYLoPRwqwzkYJ1e/giphy.gif"  />
+</div>
+
 # 👋 Hello, I'm Alexey
 
 ### Mid-Level Software Engineer | Backend • Systems
