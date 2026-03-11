@@ -47,34 +47,36 @@ My journey progressed from experimentation to structured engineering: from writi
 <!-- Tech Stack Section -->
 ##  Core Tech Stack
 
-<div align="center">
+<div align="left">
 
-### Languages
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-</p>
+  <!-- Tools & Platforms -->
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="kali linux logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/json/000000" height="40" alt="json logo"/>
 
 </div>
 
@@ -105,13 +107,13 @@ My journey progressed from experimentation to structured engineering: from writi
 
 | Area | Status | Description |
 |------|--------|-------------|
-| **System Design** | 🟡 Learning | Deepening architecture knowledge for scalable systems |
-| **Python** | 🟡Mid/Senior | Building tools, automatization and testing |
-| **Go** | 🟡 Improving | Building backend services and CLI tools |
-| **Rust** | 🟡 Mid | Systems programming, performance-critical components |
-| **Kotlin** | 🟡 Junior | Mobile and backend development |
-| **Backend Architecture** | 🟡 Active | Production-ready systems and infrastructure |
-| **Neural Technologies** | 🔵 Exploring | Understanding integration with existing systems |
+| **System Design** | Learning | Deepening architecture knowledge for scalable systems |
+| **Python** | Mid/Senior | Building tools, automatization and testing |
+| **Go** | Improving | Building backend services and CLI tools |
+| **Rust** | Mid | Systems programming, performance-critical components |
+| **Kotlin** | Junior | Mobile and backend development |
+| **Backend Architecture** | Active | Production-ready systems and infrastructure |
+| **Neural Technologies** | Exploring | Understanding integration with existing systems |
 
 </div>
 
