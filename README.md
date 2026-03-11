@@ -28,24 +28,24 @@
 ---
 
 <!-- About Me Section -->
-## 🧠 About Me
+##  About Me
 
 I started programming from pure curiosity about how systems work — inspired by tech culture and the desire to understand what happens beneath the surface. With no formal education, no courses, and no corporate background, I taught myself everything from open online resources, building real projects that solve real problems.
 
 My journey progressed from experimentation to structured engineering: from writing simple utilities to building complete systems that handle automation, hardware integration, and security analysis. I enjoy understanding systems at their core — how they breathe, how they break, and how to make them reliable.
 
 **What drives me:**
-- 🔧 Building from scratch and maintaining full control over systems
-- 🧩 Understanding internal mechanics rather than accepting abstractions
-- 🛠️ Working with hardware — Arduino, ESP32, RF systems, embedded devices
-- 📚 Continuously expanding into system design, neural technologies, Go, Rust, and Kotlin
+-  Building from scratch and maintaining full control over systems
+-  Understanding internal mechanics rather than accepting abstractions
+-  Working with hardware — Arduino, ESP32, RF systems, embedded devices
+-  Continuously expanding into system design, neural technologies, Go, Rust, and Kotlin
 
 **Engineering mindset:** Calm, rational, pragmatic. I value clean, reliable code over hype. No romanticizing — just solid engineering that works.
 
 ---
 
 <!-- Tech Stack Section -->
-## 🛠️ Core Tech Stack
+##  Core Tech Stack
 
 <div align="center">
 
@@ -80,25 +80,8 @@ My journey progressed from experimentation to structured engineering: from writi
 
 ---
 
-<!-- Engineering Skills Section -->
-## 💡 Engineering Skills
-
-<div align="center">
-
-| Category | Skills |
-|----------|--------|
-| **Code Quality** | Clean code practices, debugging & troubleshooting, mid-level logic systems |
-| **System Design** | REST API fundamentals, system architecture (actively learning) |
-| **DevOps & Tools** | Linux environment, Git/GitHub workflow, Docker exposure, basic DevOps understanding |
-| **Development** | CLI tool development, hardware interaction, embedded systems |
-| **Data & ML** | Data processing, anomaly detection, pattern analysis |
-
-</div>
-
----
-
 <!-- GitHub Metrics Section -->
-## 📊 GitHub Metrics
+##  GitHub Metrics
 
 <div align="center">
 
@@ -116,7 +99,7 @@ My journey progressed from experimentation to structured engineering: from writi
 ---
 
 <!-- Current Focus Section -->
-## 🎯 Current Focus
+##  Current Focus
 
 <div align="center">
 
@@ -134,37 +117,8 @@ My journey progressed from experimentation to structured engineering: from writi
 
 ---
 
-<!-- Roadmap Section -->
-## 🗺️ Roadmap
-
-**Planned projects and learning goals:**
-
-- [ ] **Scalable Backend Service** — Production-grade API with proper architecture
-- [ ] **Advanced CLI Tooling** — Developer productivity tools in Go/Rust
-- [ ] **Hardware-Integrated Project** — Embedded systems with wireless capabilities
-- [ ] **Infrastructure Experiment** — Kubernetes/Docker orchestration at scale
-- [ ] **Personal Engineering Toolkit** — Curated set of reusable components
-
----
-
-<!-- Engineering Philosophy Section -->
-## 🧭 Engineering Philosophy
-
-> **"I aim to build systems that are clear, reliable, and under control."**
-
-I believe in:
-- **Clarity** — Code should be readable and maintainable
-- **Reliability** — Systems should work predictably under stress
-- **Control** — Understanding every layer, from hardware to UI
-- **Pragmatism** — Choosing the right tool for the job, not the trendiest
-- **Continuous Learning** — Technology evolves; engineers must evolve with it
-
-No hype, no romanticizing — just solid engineering that solves real problems.
-
----
-
 <!-- Contact Section -->
-## 📫 Connect
+##  Connect
 
 <div align="center">
 
