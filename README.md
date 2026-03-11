@@ -110,8 +110,6 @@ My journey progressed from experimentation to structured engineering: from writi
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="kali linux logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch linux logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blackarchlinux/000000" height="40" alt="blackarch logo"/>
 </div>
 
 
