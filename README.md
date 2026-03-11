@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tworjaga">
-    <img src="https://img.shields.io/github/followers/tworjaga?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
   <a href="https://t.me/al7exy">
     <img src="https://img.shields.io/badge/Telegram-@al7exy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
