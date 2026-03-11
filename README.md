@@ -54,34 +54,68 @@ My journey progressed from experimentation to structured engineering: from writi
 
 <div align="left">
 
-  <!-- Languages -->
+ ### Languages
+<div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"/>
+</div>
 
-  <!-- Tools & Platforms -->
-  <img width="12" />
+### Frameworks / Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"/>
+</div>
+
+### Hardware
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"/>
+</div>
+
+### Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo"/>
+</div>
+
+### Tools & Platforms
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/json/000000" height="40" alt="json logo"/>
+</div>
+
+### Operating Systems
+<div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="kali linux logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/json/000000" height="40" alt="json logo"/>
+  <img src="https://cdn.simpleicons.org/blackarchlinux/000000" height="40" alt="blackarch logo"/>
+</div>
+
+### Security / Pentesting
+<div align="left">
+  <img src="https://cdn.simpleicons.org/linux/000000" height="40" alt="nightvision pentest tool"/>
+</div>
 
 </div>
 
