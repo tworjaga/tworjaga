@@ -4,7 +4,7 @@
 # 👋 Hello, I'm Alexey
 
 <div align="center">
-  <img height="300" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2QyeTJsZmxreWptNWNqYjQ4b3ZtODdiMHByYjN4d3JtOTA0cG44NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYLoPRwqwzkYJ1e/giphy.gif"  />
+  <img height="300" width="600" src="https://static-cdn.jtvnw.net/jtv_user_pictures/79b441b1-2dd7-4227-b83c-8d649460c236-profile_banner-480.jpeg"  />
 </div>
 
 ### Mid-Level Software Engineer | Backend • Systems
