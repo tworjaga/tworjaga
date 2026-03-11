@@ -97,11 +97,6 @@ My journey progressed from experimentation to structured engineering: from writi
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tworjaga&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
 <!-- Top Languages Card -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tworjaga&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
