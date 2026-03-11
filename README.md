@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/tworjaga?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://t.me/al7exy">
-    <img src="https://img.shields.io/badge/Telegram-@al7exy-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@al7exy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
@@ -127,9 +127,6 @@ My journey progressed from experimentation to structured engineering: from writi
 <p>
   <a href="https://github.com/tworjaga">
     <img src="https://img.shields.io/badge/GitHub-tworjaga-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/al7exy">
-    <img src="https://img.shields.io/badge/Telegram-@al7exy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
