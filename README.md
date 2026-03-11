@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tworjaga.tworjaga&"  />
+</div>
+
 <!-- Contribution Snake -->
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
