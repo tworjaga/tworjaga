@@ -82,11 +82,11 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,azure,vscode"/>
 
 ### Systems
 
