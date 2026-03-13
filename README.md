@@ -68,17 +68,13 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 # Tech Stack
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,ts,js,php,rust,go,kotlin,bash&perline=4"/>
-
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi&perline=4"/>
+<img src="https://skillicons.dev/icons?i=fastapi,python,php,rust,c,go,bash,java&perline=4"/>
 
-### Hardware
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=arduino&perline=4"/>
+<img src="https://skillicons.dev/icons?i=ts,js,html&perline=4"/>
 
 ### Databases
 
@@ -86,7 +82,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,azure,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,docker,vercel,vitest,azure,vscode&perline=4"/>
 
 ### Systems
 
