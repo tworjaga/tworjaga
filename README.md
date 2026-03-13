@@ -72,21 +72,21 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 <img src="https://skillicons.dev/icons?i=fastapi,python,php,rust,c,go,bash,java&perline=4"/>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=ts,js,html&perline=4"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=4"/>
-
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,arduino,docker,vercel,vitest,azure,vscode&perline=4"/>
 
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=ts,js,html&perline=4"/>
+
 ### Systems
 
 <img src="https://skillicons.dev/icons?i=linux,arch,kali&perline=4"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=4"/>
 
 ---
 
