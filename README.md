@@ -90,9 +90,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Systems
 
-<img src="https://skillicons.dev/icons?i=linux,arch"/>
-
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="48"/>
+<img src="https://skillicons.dev/icons?i=linux,arch,kali"/>
 
 ---
 
