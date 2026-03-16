@@ -133,6 +133,10 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 <img src="https://img.shields.io/badge/GitHub-tworjaga-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://tworjaga.github.io/">
+<img src="https://img.shields.io/badge/github-portfolio-blue?logo=github"/>
+</a>
+
 </p>
 
 <p align="center">
