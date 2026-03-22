@@ -70,7 +70,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,python,php,rust,c,go,bash,java&perline=4"/>
+<img src="https://skillicons.dev/icons?i=fastapi,python,php,rust,c,cpp,go,bash,java&perline=4"/>
 
 ### Tools
 
