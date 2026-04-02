@@ -93,7 +93,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 # GitHub Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tworjaga&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tworjaga&theme=dark&hide_border=false"/>
 </p>
 
 <div align="center">
