@@ -74,7 +74,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,arduino,docker,vercel,vitest,azure,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,docker,aws,vercel,vitest,azure,vscode&perline=4"/>
 
 ### Frontend
 
