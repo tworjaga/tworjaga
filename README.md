@@ -70,11 +70,11 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,python,php,rust,c,cpp,go,bash,java&perline=4"/>
+<img src="https://skillicons.dev/icons?i=python,php,rust,c,cpp,go,bash,java&perline=4"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,arduino,raspberrypi,docker,kubernetes,aws,vercel,vitest,jenkins,azure,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,raspberrypi,docker,kubernetes,aws,vercel,vitest,fastapi,jenkins,azure,vscode&perline=4"/>
 
 ### Frontend
 
@@ -82,7 +82,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Systems
 
-<img src="https://skillicons.dev/icons?i=linux,arch,kali&perline=4"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,kali&perline=4"/>
 
 ### Databases
 
