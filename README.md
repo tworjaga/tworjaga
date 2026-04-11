@@ -74,7 +74,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,arduino,pi,docker,aws,vercel,vitest,azure,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,raspberrypi,docker,kubernetes,aws,vercel,vitest,jenkins,azure,vscode&perline=4"/>
 
 ### Frontend
 
@@ -86,7 +86,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=4"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra&perline=4"/>
 
 ---
 
