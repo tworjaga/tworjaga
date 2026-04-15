@@ -111,14 +111,6 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ---
 
-<p align="center">
-<img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5qbXl4Z2hzdG9jaHgwYnJjbnp0anVkcm15Nmw3OTl2aGlsanhwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V9OsQgyaVeJ9Rxf0jH/giphy.gif"/>
-</p>
-
-[![HTB HD Badge](https://flangvik.github.io/HTB-HDBadgeGenerator/?id=ВАШ_ID_HTB)](https://www.hackthebox.eu/home/users/profile/012345)
-
----
-
 # Current Focus
 
 | Area | Status |
