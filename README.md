@@ -52,6 +52,8 @@ My interests sit at the intersection of:
 - embedded hardware
 - automation
 - infrastructure engineering
+- CTI
+- OSEP
 
 I prefer **understanding systems deeply** instead of blindly using abstractions.
 
