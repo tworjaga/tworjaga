@@ -118,7 +118,13 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tworjaga&bg_color=20232A&color=61DAFB&line=61DAFB&point=61DAFB&hide_border=true" /> 
   </a> 
-</div>
+  </div>
+  
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tworjaga&theme=dark&hide_border=false"/>
+</p>
 
 ---
 
