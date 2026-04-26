@@ -21,8 +21,6 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### Backend / Systems Engineer
-
 <p align="center">
 <em>Building reliable systems through pragmatic engineering</em>
 </p>
