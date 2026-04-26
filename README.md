@@ -92,24 +92,33 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ---
 
-# GitHub Metrics
+## GitHub Profile Stats : 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tworjaga&theme=dark&hide_border=false"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tworjaga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tworjaga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+<p align="center"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tworjaga&theme=react" width="100%" /> 
+</p> 
+  
+  --- 
+  
+  <p align="center"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tworjaga&theme=react" width="49%" /> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tworjaga&theme=react" width="49%" /> 
+  </p> 
+  
+  --- 
+  
+  <p align="center"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tworjaga&theme=react" width="49%" /> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tworjaga&theme=react&utcOffset=8" width="49%" /> 
+  </p> 
+  
+  --- 
+  
+  <div align="center"> 
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tworjaga&bg_color=20232A&color=61DAFB&line=61DAFB&point=61DAFB&hide_border=true" /> 
+  </a> 
 </div>
-
----
-
-# Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tworjaga&theme=github-dark&bg_color=00000000"/>
-</p>
 
 ---
 
