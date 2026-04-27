@@ -78,7 +78,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=ts,js,html&perline=4"/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css&perline=4"/>
 
 ### Systems
 
