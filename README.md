@@ -90,7 +90,7 @@ I prefer **understanding systems deeply** instead of blindly using abstractions.
 
 ---
 
-## GitHub Profile Stats : 
+# GitHub Profile Stats : 
 
 <p align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tworjaga&theme=react" width="100%" /> 
