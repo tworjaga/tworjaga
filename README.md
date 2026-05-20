@@ -45,13 +45,14 @@ Started programming out of curiosity about how systems actually work — and gra
 
 My interests sit at the intersection of:
 
+- infrastructure engineering
 - backend development
 - systems programming
 - embedded hardware
+- Cybersecurity
 - automation
-- infrastructure engineering
+- Sigint
 - CTI
-- OSEP
 
 I prefer **understanding systems deeply** instead of blindly using abstractions.
 
