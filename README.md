@@ -46,8 +46,8 @@ Started programming out of curiosity about how systems actually work — and gra
 My interests sit at the intersection of:
 
 - infrastructure engineering
-- backend development
 - systems programming
+- backend development
 - embedded hardware
 - Cybersecurity
 - automation
