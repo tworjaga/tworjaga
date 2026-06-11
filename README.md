@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/al7exy">
-<img src="https://img.shields.io/badge/Telegram-@al7exy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/smtrcv">
+<img src="https://img.shields.io/badge/Telegram-@smtrcv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </p>
 
