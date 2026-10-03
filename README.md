@@ -18,7 +18,10 @@
 
 <!-- Contribution Snake -->
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tworjaga/tworjaga/output/github-snake-dark.svg"/>
+  <img width="600" src="https://raw.githubusercontent.com/tworjaga/tworjaga/output/github-snake.svg" alt="snake"/>
+ </picture>
 </p>
 
 <p align="center">
