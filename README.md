@@ -127,12 +127,6 @@ I prefer understanding how things work instead of blindly relying on abstraction
 
 # Connect
 
-<p align="center">
-
-<a href="https://github.com/tworjaga">
-<img src="https://img.shields.io/badge/GitHub-tworjaga-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 <p align="center">
@@ -141,7 +135,17 @@ I prefer understanding how things work instead of blindly relying on abstraction
 <img src="https://img.shields.io/badge/github-portfolio-blue?logo=github"/>
 </a>
 
+<a href="https://download.alexeysaltaganov.com/">
+<img src="https://img.shields.io/badge/project-installer-orange">
+</a>
+
 </p>
+
+<p align="center">
+
+<a href="https://github.com/tworjaga">
+<img src="https://img.shields.io/badge/GitHub-tworjaga-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
