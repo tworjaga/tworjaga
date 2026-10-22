@@ -77,7 +77,7 @@ I prefer understanding how things work instead of blindly relying on abstraction
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,kubernetes,aws,cloudflare,gcp,firebase,fastapi,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,kubernetes,aws,cloudflare,gcp,firebase,gitlab,vscode&perline=4"/>
 
 ### Systems
 
@@ -85,7 +85,7 @@ I prefer understanding how things work instead of blindly relying on abstraction
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres&perline=4"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis&perline=4"/>
 
 ---
 
