@@ -108,8 +108,9 @@ I prefer understanding how things work instead of blindly relying on abstraction
 
 ---
 
+<!-- GitHub Metrics (generated daily by .github/workflows/metrics.yml) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tworjaga&background=161616&border=2A2A2A&ring=F6821F&fire=F6821F&currStreakLabel=F6821F&currStreakNum=E6E6E6&sideNums=E6E6E6&sideLabels=A3A3A3&dates=A3A3A3&stroke=2A2A2A"/>
+  <img src="metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
 
 ---
