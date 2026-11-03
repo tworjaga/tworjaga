@@ -4,6 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:161616&height=220&section=header&text=tworjaga&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=F6821F"/>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F6821F&center=true&vCenter=true&width=700&lines=Systems+Developer;Python+%7C+C+%7C+Rust+%7C+Go;Linux+Infrastructure+%7C+Automation;Backend+Developer"/>
+</p>
+
 ---
 
 # 👋 Hello, I'm Alexey
