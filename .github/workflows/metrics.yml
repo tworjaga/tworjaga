@@ -51,7 +51,7 @@ jobs:
           plugin_activity_limit: 6
           plugin_activity_days: 14
           plugin_activity_filter: all
-
+          
           # Recently starred repos + starred topics
           plugin_stars: yes
           plugin_stars_limit: 4
