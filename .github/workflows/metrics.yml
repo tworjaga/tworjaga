@@ -31,44 +31,32 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-          # Lines of code added/removed + weekly history
+          # Lines of code added/removed (totals only)
           plugin_lines: yes
-          plugin_lines_sections: base, history
+          plugin_lines_sections: base
 
           # Issues & PRs opened/closed/merged
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
-          # Repos you contributed to that you don't own
-          plugin_notable: yes
-
           # Your pinned repositories as cards
           plugin_repositories: yes
           plugin_repositories_pinned: 6
 
-          # Recent activity feed
-          plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          
-          # Recently starred repos + starred topics
+          # Recently starred repos
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_limit: 12
 
           # Yearly contribution calendars
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
-          # Stargazers charts over 90 days
+          # Stargazers charts over 60 days
           plugin_stargazers: yes
-          plugin_stargazers_days: 90
+          plugin_stargazers_days: 60
 
           # Followers / following avatars
           plugin_people: yes
           plugin_people_types: followers, following
-          plugin_people_limit: 28
+          plugin_people_limit: 26
           plugin_people_size: 28
