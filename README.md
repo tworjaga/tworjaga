@@ -108,10 +108,16 @@ I prefer understanding how things work instead of blindly relying on abstraction
 
 ---
 
+<details>
+<summary><b>Full GitHub Metrics</b></summary>
+<br>
+
 <!-- GitHub Metrics (generated daily by .github/workflows/metrics.yml) -->
 <p align="center">
   <img src="metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
+
+</details>
 
 ---
 
