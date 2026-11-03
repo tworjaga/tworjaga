@@ -67,21 +67,12 @@ I prefer understanding how things work instead of blindly relying on abstraction
 
 # Tech Stack
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,rust,cpp,go&perline=4"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,kubernetes,aws,cloudflare,gcp,firebase,gitlab,vscode&perline=4"/>
-
-### Systems
-
-<img src="https://skillicons.dev/icons?i=windows,linux&perline=4"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,redis&perline=4"/>
+<p align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"/>
+  <img width="100%" src="assets/stack-light.svg" alt="Tech stack: Go, Rust, Python, Google Cloud, AWS, Cloudflare, Kubernetes, GitLab, Firebase, PostgreSQL, Redis, Linux, Windows"/>
+ </picture>
+</p>
 
 ---
 
