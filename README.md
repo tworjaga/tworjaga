@@ -78,6 +78,10 @@ I prefer understanding how things work instead of blindly relying on abstraction
 
 # GitHub Profile Stats : 
 
+<p align="center">
+  <a href="https://twg.alexeysaltaganov.com/map"><img src="https://img.shields.io/badge/Stack_Map-open_the_interactive_map_%E2%86%97-f38c21?style=for-the-badge&logo=cloudflare&logoColor=f38c21&labelColor=0d1117" alt="Open the interactive Stack Map"></a>
+</p>
+
 <!-- 3D Contribution Calendar (generated daily by tworjaga/pst) -->
 <p align="center">
  <picture>
