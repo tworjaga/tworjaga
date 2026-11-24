@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@tworjaga?theme=kyun&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=3216" width="400" alt="visitor counter" />
+  <img src="https://count.getloli.com/@tworjaga?theme=kyun&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" width="400" alt="visitor counter" />
 </p>
 
 <p align="center">
