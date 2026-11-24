@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+  <img src="https://count.getloli.com/@tworjaga?theme=kyun&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=3216" width="400" alt="visitor counter" />
+</p>
+
+<p align="center">
 <em>Writing code, fixing bugs, shipping stuff.</em>
 </p>
 
@@ -28,10 +32,6 @@
 <a href="https://t.me/smtrcv">
 <img src="https://img.shields.io/badge/Telegram-@smtrcv-F6821F?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161616"/>
 </a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tworjaga&color=F6821F&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
